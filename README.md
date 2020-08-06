@@ -1,4 +1,8 @@
-### Welcome 👋
+Hey 👋🏻,
+
+I am technology manager. I love to code apps, websites and games. I use C#, Python and Javascript.
+
+You can see what I am currently up to on vnoves.com
 
 
 📬**Get in touch**
