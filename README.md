@@ -7,6 +7,10 @@
 [Blog](https://vnoves.com/Blog.html)<br/>
 [Web](https://vnoves.com/)<br/>
 [LinkedIn](https://www.linkedin.com/in/novesvalentin/)<br/>
+[Youtube](https://www.youtube.com/c/ValentinNoves/videos?view_as=subscriber)<br/>
+
+
+
 <!--
 **vnoves/vnoves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
