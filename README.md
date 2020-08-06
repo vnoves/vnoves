@@ -16,12 +16,12 @@ You can see what I am currently up to on vnoves.com
 
 ⚡**Random facts**
 ----------------------------------------------------------------
-*I Love In n'out burgers
-*I'm a millenial. Im sorry!
-*I practice rock climbing and snowboarding
-*My favourite movie is Forest Gump
-*I draw and design stickers as a hobbie
-*I've travel to more than 80 countries
+-I Love In n'out burgers<br/>
+-I'm a millenial. Im sorry!<br/>
+-I practice rock climbing and snowboarding<br/>
+-My favourite movie is Forest Gump<br/>
+-I draw and design stickers as a hobbie<br/>
+-I've travel to more than 80 countries<br/>
 
 <!--
 **vnoves/vnoves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
