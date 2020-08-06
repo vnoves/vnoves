@@ -3,10 +3,10 @@
 
 📬**Get in touch**
 ----------------------------------------------------------------
-Twitter: https://twitter.com/valenoves
-Blog: https://vnoves.com/Blog.html
-Web: https://vnoves.com/
-LinkedIn: https://www.linkedin.com/in/novesvalentin/
+[Twitter](https://twitter.com/valenoves)<br/>
+[Blog](https://vnoves.com/Blog.html)<br/>
+[Web](https://vnoves.com/)<br/>
+[LinkedIn](https://www.linkedin.com/in/novesvalentin/)<br/>
 <!--
 **vnoves/vnoves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
