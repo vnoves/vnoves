@@ -13,9 +13,15 @@ You can see what I am currently up to on vnoves.com
 [LinkedIn](https://www.linkedin.com/in/novesvalentin/)<br/>
 [Youtube](https://www.youtube.com/c/ValentinNoves/videos?view_as=subscriber)<br/>
 [Devpost](https://devpost.com/novesvalentin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br/>
-[Slideshare](https://www.slideshare.net/ValentinNoves)<br/>
 
-
+⚡**Random facts**
+----------------------------------------------------------------
+*I Love In n'out burgers
+*I'm a millenial. Im sorry!
+*I practice rock climbing and snowboarding
+*My favourite movie is Forest Gump
+*I draw and design stickers as a hobbie
+*I've travel to more than 80 countries
 
 <!--
 **vnoves/vnoves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
