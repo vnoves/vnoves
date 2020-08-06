@@ -12,7 +12,7 @@ You can see what I am currently up to on vnoves.com
 [Web](https://vnoves.com/)<br/>
 [LinkedIn](https://www.linkedin.com/in/novesvalentin/)<br/>
 [Youtube](https://www.youtube.com/c/ValentinNoves/videos?view_as=subscriber)<br/>
-
+[Devpost](https://devpost.com/novesvalentin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br/>
 
 
 <!--
