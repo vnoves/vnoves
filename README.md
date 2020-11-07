@@ -4,14 +4,14 @@ I am technology manager. I love to code apps, websites and games. I use C#, Pyth
 
 You can see what I am currently up to on vnoves.com
 
-Currently work as Co-found and CEO at [E-verse](https://www.e-verse.co/)
+Currently work as Co-founder and CEO at [E-verse](https://www.e-verse.co/)
 
 
 📬**Get in touch**
 ----------------------------------------------------------------
 [Twitter](https://twitter.com/valenoves)<br/>
 [Blog](https://vnoves.com/Blog.html)<br/>
-[Web](https://vnoves.com/)<br/>
+[Personal Website](https://vnoves.com/)<br/>
 [LinkedIn](https://www.linkedin.com/in/novesvalentin/)<br/>
 [Youtube](https://www.youtube.com/c/ValentinNoves/videos?view_as=subscriber)<br/>
 [Devpost](https://devpost.com/novesvalentin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br/>
