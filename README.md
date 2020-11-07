@@ -4,6 +4,8 @@ I am technology manager. I love to code apps, websites and games. I use C#, Pyth
 
 You can see what I am currently up to on vnoves.com
 
+Currently work as Co-found and CEO at E-verse(https://www.e-verse.co/)
+
 
 📬**Get in touch**
 ----------------------------------------------------------------
@@ -21,7 +23,7 @@ You can see what I am currently up to on vnoves.com
 -I practice rock climbing and snowboarding<br/>
 -My favourite movie is Forest Gump<br/>
 -I draw and design stickers as a hobbie<br/>
--I've travel to more than 80 countries<br/>
+-I've traveled to more than 80 countries<br/>
 
 <!--
 **vnoves/vnoves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
