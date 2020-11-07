@@ -4,7 +4,7 @@ I am technology manager. I love to code apps, websites and games. I use C#, Pyth
 
 You can see what I am currently up to on vnoves.com
 
-Currently work as Co-found and CEO at E-verse(https://www.e-verse.co/)
+Currently work as Co-found and CEO at [E-verse](https://www.e-verse.co/)
 
 
 📬**Get in touch**
